@@ -1,2 +1,4 @@
 .vscode/
 *.docx
+*.csv
+.virtual_documents
