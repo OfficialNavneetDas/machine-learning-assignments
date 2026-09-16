@@ -3,3 +3,5 @@
 *.csv
 .virtual_documents
 *A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017*
+.ipynb*
+practic problums
